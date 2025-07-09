@@ -196,7 +196,7 @@ This project demonstrates:
 - **Network Programming**: Practical experience with network communication
 - **Python Networking**: Usage of Python's socket library
 
-## 🤝 Contributing
+## Contributing
 
 This is an academic project for Computer Networks. For educational purposes, feel free to:
 
